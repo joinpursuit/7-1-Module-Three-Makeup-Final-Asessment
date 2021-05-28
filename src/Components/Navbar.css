@@ -1,0 +1,17 @@
+.navBar {
+    /* text-align: center; */
+    display: block;
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 50px 50px;
+}
+
+
+.navBarImg {
+    background-color: aquamarine;
+    height: 50px; 
+    width: 50px;
+    background-color: transparent;
+    float: left;
+}
